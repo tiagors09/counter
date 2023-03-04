@@ -25,4 +25,4 @@ npm run dev
 
 ## Usage
 
-![](https://github.com/tiagors09/assets/blob/main/Counter-Google-Chrome-2023-02-24-20-38-08.gif)
+![](https://github.com/tiagors09/assets/blob/main/Counter%20-%20Google%20Chrome%202023-03-04%2009-26-27.gif)
